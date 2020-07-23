@@ -100,7 +100,7 @@ namespace specflowC.Parser
 
         static private UnitTestLanguageConfig GetLanguageConfig()
         {
-            return new QtTestLibUnitTestCpp11LanguageConfig();
+            return new MSCppUnitTestLanguageConfig();
         }
 
         static private void WriteFile(IGenerate generator, List<NodeFeature> features, string outputDirectory, string extension, string consoleMessage)

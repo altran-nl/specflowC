@@ -2,3 +2,14 @@
 .svn/entries
 .svn/wc.db
 .svn/format
+src/specflowC.Parser.UnitTests/obj/
+src/Build/
+src/Cpp.AUT/Debug/
+src/Cpp.UnitTest/Debug/
+src/NullUnitTestGeneratorProvider/obj/
+src/specflowC.Parser/obj/
+src/specflowC.Installer/obj/
+src/specflowC.IntelliSense.StepDefinitions/obj/
+src/packages/
+src/Install/
+src/.vs/
